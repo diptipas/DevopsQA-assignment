@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6219" started-at="2020-07-02T13:55:04 IST" finished-at="2020-07-02T13:55:11 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6219" started-at="2020-07-02T13:55:04 IST" finished-at="2020-07-02T13:55:11 IST">
+      <class name="com.test.favqs.tests.SampleTest">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="initializeBrowser" is-config="true" duration-ms="103" started-at="2020-07-02T13:55:04 IST" finished-at="2020-07-02T13:55:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="setupTest" is-config="true" duration-ms="0" started-at="2020-07-02T13:55:04 IST" finished-at="2020-07-02T13:55:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="startTest" is-config="true" duration-ms="418" started-at="2020-07-02T13:55:04 IST" finished-at="2020-07-02T13:55:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.favqs.tests.SampleTest.ReqresCreateUser() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="ReqresCreateUser()[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="ReqresCreateUser" duration-ms="1910" started-at="2020-07-02T13:55:05 IST" finished-at="2020-07-02T13:55:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReqresCreateUser -->
+        <test-method status="PASS" signature="reportFlush(org.testng.ITestResult)[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="reportFlush" is-config="true" duration-ms="228" started-at="2020-07-02T13:55:07 IST" finished-at="2020-07-02T13:55:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ReqresCreateUser status=SUCCESS method=SampleTest.ReqresCreateUser()[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="startTest" is-config="true" duration-ms="0" started-at="2020-07-02T13:55:07 IST" finished-at="2020-07-02T13:55:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.favqs.tests.SampleTest.ReqresGetListofUsers() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="ReqresGetListofUsers()[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="ReqresGetListofUsers" duration-ms="873" started-at="2020-07-02T13:55:07 IST" finished-at="2020-07-02T13:55:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReqresGetListofUsers -->
+        <test-method status="PASS" signature="reportFlush(org.testng.ITestResult)[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="reportFlush" is-config="true" duration-ms="43" started-at="2020-07-02T13:55:08 IST" finished-at="2020-07-02T13:55:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ReqresGetListofUsers status=SUCCESS method=SampleTest.ReqresGetListofUsers()[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="startTest" is-config="true" duration-ms="1" started-at="2020-07-02T13:55:08 IST" finished-at="2020-07-02T13:55:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.favqs.tests.SampleTest.ReqresGetSingleUser() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="ReqresGetSingleUser()[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="ReqresGetSingleUser" duration-ms="828" started-at="2020-07-02T13:55:08 IST" finished-at="2020-07-02T13:55:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReqresGetSingleUser -->
+        <test-method status="PASS" signature="reportFlush(org.testng.ITestResult)[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="reportFlush" is-config="true" duration-ms="24" started-at="2020-07-02T13:55:09 IST" finished-at="2020-07-02T13:55:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ReqresGetSingleUser status=SUCCESS method=SampleTest.ReqresGetSingleUser()[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="startTest" is-config="true" duration-ms="0" started-at="2020-07-02T13:55:09 IST" finished-at="2020-07-02T13:55:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.favqs.tests.SampleTest.ReqresSingleUserNotFound() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="ReqresSingleUserNotFound()[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="ReqresSingleUserNotFound" duration-ms="910" started-at="2020-07-02T13:55:09 IST" finished-at="2020-07-02T13:55:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReqresSingleUserNotFound -->
+        <test-method status="PASS" signature="reportFlush(org.testng.ITestResult)[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="reportFlush" is-config="true" duration-ms="24" started-at="2020-07-02T13:55:10 IST" finished-at="2020-07-02T13:55:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ReqresSingleUserNotFound status=SUCCESS method=SampleTest.ReqresSingleUserNotFound()[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="startTest" is-config="true" duration-ms="1" started-at="2020-07-02T13:55:10 IST" finished-at="2020-07-02T13:55:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.favqs.tests.SampleTest.ReqresUpdateUser() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="ReqresUpdateUser()[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="ReqresUpdateUser" duration-ms="902" started-at="2020-07-02T13:55:10 IST" finished-at="2020-07-02T13:55:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReqresUpdateUser -->
+        <test-method status="PASS" signature="reportFlush(org.testng.ITestResult)[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4]" name="reportFlush" is-config="true" duration-ms="26" started-at="2020-07-02T13:55:11 IST" finished-at="2020-07-02T13:55:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ReqresUpdateUser status=SUCCESS method=SampleTest.ReqresUpdateUser()[pri:0, instance:com.test.favqs.tests.SampleTest@2d8f65a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+      </class> <!-- com.test.favqs.tests.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
