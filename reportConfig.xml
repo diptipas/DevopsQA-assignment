@@ -17,11 +17,8 @@
         <documentTitle>Extent Reports</documentTitle>
         
         <!-- report name - displayed at top-nav -->
-        <reportName>Automation Report</reportName>
-        
-        <!-- report headline - displayed at top-nav, after reportHeadline -->
-        <reportHeadline>NAGP</reportHeadline>
-        
+        <reportName>RestAssured Test Cases Execution Report</reportName>
+               
         <!-- global date format override -->
         <!-- defaults to yyyy-MM-dd -->
         <dateFormat>yyyy-MM-dd</dateFormat>
